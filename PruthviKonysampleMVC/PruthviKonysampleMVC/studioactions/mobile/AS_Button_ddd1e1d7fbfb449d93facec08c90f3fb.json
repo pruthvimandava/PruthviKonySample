@@ -1,0 +1,28 @@
+{
+    "AS_Button_ddd1e1d7fbfb449d93facec08c90f3fb": {
+        "id": "AS_Button_ddd1e1d7fbfb449d93facec08c90f3fb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "MainForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "jf559d5a70b845e89eeb68d7258512b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___dcf20ced73e443469c23548e888741fc",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "MultiCityClick",
+            "display": "MultiCityClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "123dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "33.30%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s6584db3bad84ed98641bc5457bccde9",
+    "_top_": {
+        "type": "string",
+        "value": "313dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33.30%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "Image0b3920748b95f4a",
+        "Image0f12578b5ac0d40",
+        "Label0b1babdbc4e2f47"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "FlexContainer0f6d0ec34025e4e",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a550b76436c04dbeadc3cdd5dd150e49",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "CarsSameDropoffContainer",
+    "pf": "MainForm",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": "5"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_skin_": "s6584db3bad84ed98641bc5457bccde9",
+    "_top_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "FlexContainer0de06e59cefca44",
+        "CopyFlexContainer0d283df303d2740",
+        "FlexGroup0cdb8a915802047"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "OneWay",
+    "ide_onClick": "AS_FlexContainer_d5d98b9fe25d4cb3956adff2229674b9",
+    "info": null,
+    "isvisible": true,
+    "kuid": "cab21dd740364c03805d369468a5cb91",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlightsFlexScrollContainer",
+    "pf": "MainForm",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

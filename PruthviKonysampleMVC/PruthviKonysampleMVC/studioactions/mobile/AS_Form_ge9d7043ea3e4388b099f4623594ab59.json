@@ -1,0 +1,28 @@
+{
+    "AS_Form_ge9d7043ea3e4388b099f4623594ab59": {
+        "id": "AS_Form_ge9d7043ea3e4388b099f4623594ab59",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "SplashForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ca0459096d834e328d79136584f6536b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b0fd075365b34c2db0f9033a4a2ea661",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "autoNavigateToMainForm",
+            "display": "autoNavigateToMainForm",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

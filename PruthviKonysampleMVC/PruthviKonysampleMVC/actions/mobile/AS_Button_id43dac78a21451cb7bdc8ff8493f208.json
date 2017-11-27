@@ -1,0 +1,31 @@
+{
+    "AS_Button_id43dac78a21451cb7bdc8ff8493f208": {
+        "id": "AS_Button_id43dac78a21451cb7bdc8ff8493f208",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "MainForm",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jf559d5a70b845e89eeb68d7258512b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ief3fea6bac54780a5e96582a2472cf8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "typeOfTripClickHandler",
+            "display": "typeOfTripClickHandler",
+            "inputparams": [{
+                "name": "indexClicked",
+                "value": "2"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

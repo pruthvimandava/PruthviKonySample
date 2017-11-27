@@ -1,0 +1,28 @@
+{
+    "AS_Button_a900e4c15f2242b8ac970171f84158f2": {
+        "id": "AS_Button_a900e4c15f2242b8ac970171f84158f2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "MainForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "jf559d5a70b845e89eeb68d7258512b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ab1262926fed4215af83570bb829441b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "RoundTripClick",
+            "display": "RoundTripClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

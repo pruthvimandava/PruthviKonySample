@@ -1,0 +1,1 @@
+require(['applicationController','MainForm','MainFormController','MainFormControllerActions','SplashForm','SplashFormController','SplashFormControllerActions','userMainFormController','userSplashFormController'], function(){});

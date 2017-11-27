@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_skin_": "s6584db3bad84ed98641bc5457bccde9",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33.33%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopyLabel0f9929b22c1174d",
+        "CopyImage0d4c1ca871ff442"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "CarsFlexContainer",
+    "ide_onClick": "AS_FlexContainer_ba729680e34246a7a546e30fa47a46d0",
+    "info": null,
+    "isvisible": true,
+    "kuid": "h50e40a98a8d46e2b31d8c457b29e88a",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "onclick": "AS_FlexContainer_e5dc0712ba67442d9574d04ab6781149",
+    "ontouchstart": "AS_FlexContainer_f64977999c9f46b4a1ca482200737000",
+    "parent": "headerOptions",
+    "pf": "MainForm",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_a8c20179af034794a020b013db9a8177": {
+        "id": "AS_FlexContainer_a8c20179af034794a020b013db9a8177",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "MainForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "jf559d5a70b845e89eeb68d7258512b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a3a8071284fb4a4a82e6d6451f7cc1e7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hotelClickHandler",
+            "display": "hotelClickHandler",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_ba729680e34246a7a546e30fa47a46d0": {
+        "id": "AS_FlexContainer_ba729680e34246a7a546e30fa47a46d0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "MainForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "jf559d5a70b845e89eeb68d7258512b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c32daefe6ed946e8811759b392d8fce2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "carsClickHandler",
+            "display": "carsClickHandler",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

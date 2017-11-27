@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0.50%"
+    },
+    "_skin_": "sb3dc9c7eac342b4aa7b6124a9fbc1fb",
+    "_text_": "Same Drop-off",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "47.50%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s965bbbe8a5d45b0b267e694c86f4fd8"
+    },
+    "displaytext": true,
+    "id": "diffDropoffbtn",
+    "ide_onClick": "AS_Button_bcfe2011f6c7459b9a161e7f2ecfe1da",
+    "info": null,
+    "isvisible": true,
+    "kuid": "gf6483c4698e49208e93d30d2e17dd23",
+    "name": "kony.ui.Button",
+    "paddingLocked": false,
+    "paddinginpixel": false,
+    "parent": "carsMainContainer",
+    "pf": "MainForm",
+    "wType": "Button",
+    "zindex": 1
+}

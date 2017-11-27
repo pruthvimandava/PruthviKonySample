@@ -1,0 +1,28 @@
+{
+    "AS_Button_b22e62585ffd462998de9c8eeb382cdc": {
+        "id": "AS_Button_b22e62585ffd462998de9c8eeb382cdc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "MainForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "jf559d5a70b845e89eeb68d7258512b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c63f47ad2b1542a2b6318dfff94d33a3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "differentDropoffClick",
+            "display": "differentDropoffClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

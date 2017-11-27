@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd779832210445a4b435237c6e2d3c11",
+    "_text_": "ONE - WAY",
+    "_top_": {
+        "type": "string",
+        "value": "-1dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33.33%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s814dc6655994a83b9bfbb34e854639c",
+    "id": "oneWayButton",
+    "ide_onClick": "AS_Button_a77d647c614d4bceaf6076d348017387",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f06417a4cabc4637a950db265f080fd1",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_c4fc41bda6344417bf1650a7bbcbcbf3",
+    "parent": "subHeaderSegControl",
+    "pf": "MainForm",
+    "wType": "Button",
+    "zindex": 1
+}

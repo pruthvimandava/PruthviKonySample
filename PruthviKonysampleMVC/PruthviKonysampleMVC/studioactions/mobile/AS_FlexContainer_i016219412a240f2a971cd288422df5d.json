@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_i016219412a240f2a971cd288422df5d": {
+        "id": "AS_FlexContainer_i016219412a240f2a971cd288422df5d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "MainForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "jf559d5a70b845e89eeb68d7258512b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___dc01c17740994eeca9ed8358a9b4fa3f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "SameDropOffClick",
+            "display": "SameDropOffClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

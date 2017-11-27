@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "-2dp"
+    },
+    "_skin_": "sd779832210445a4b435237c6e2d3c11",
+    "_text_": "MULTI - CITY",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33.33%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s814dc6655994a83b9bfbb34e854639c",
+    "id": "multiCityButton",
+    "ide_onClick": "AS_Button_ddd1e1d7fbfb449d93facec08c90f3fb",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b04abd0ab0e64a929025d43b8af24b67",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_id43dac78a21451cb7bdc8ff8493f208",
+    "parent": "subHeaderSegControl",
+    "pf": "MainForm",
+    "wType": "Button",
+    "zindex": 1
+}

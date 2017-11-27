@@ -1,0 +1,232 @@
+{
+    "mwaddrkey": "",
+    "projectCloudGuid": "a4fdc67f-3951-481f-9599-d288c9f7665a",
+    "wap_android360_fontsize": "13",
+    "wap_android440_fontsize": "15",
+    "wap_spaandroidtabxhdpi_fontsize": "18",
+    "apppackagekey": "",
+    "nativeContainerProperties": {
+        "isModified": true,
+        "isEnableJSContainer": true,
+        "isEnableJSContainerAndroid": true,
+        "isEnableJSContaineriOS": true
+    },
+    "wap_android400_fontsize": "14",
+    "wap_spaandroidtabhdpi_fontsize": "16",
+    "desktopwebaligenmentoption": "Left",
+    "appversionkey": "1.0.0",
+    "desktopwebwidthoption": "percentage",
+    "project.type": "js",
+    "startupformkey": "ca0459096d834e328d79136584f6536b",
+    "wap_bb480_fontsize": "17",
+    "wap_winphone480_fontsize": "12",
+    "enableCustomData": false,
+    "wap_android640_fontsize": "19",
+    "vendornamekey": "KonyLabs",
+    "wap_android320_fontsize": "12",
+    "createdgaversion": "8.0.1",
+    "isMVC": true,
+    "wap_android480_fontsize": "16",
+    "mastersProperties": {
+        "mastersVersion": "2.0.0"
+    },
+    "wap_winphone320_fontsize": "12",
+    "appmenu": {
+        "tablet": {
+            "data": [
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "kuid": "bbc4a04069234f8696ce4eb5e0e879de",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "kuid": "f6354c00c42941c0b922eee1315f71c7",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "kuid": "d820825e2f52410890bb834ba16a36d5",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "kuid": "abc1176d4c5647e8bb2d23e00140c5d4",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "desktop": {
+            "data": [
+                {
+                    "kuid": "b81cc8348e034e40aee117fc6caeeb9d",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "kuid": "f7e7bd43a88a47bfa60f66e4a311b4f7",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "kuid": "j6e291a2766248ddb78efe1d4012c8dc",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "kuid": "fb79153ae4ad4675a39c0e5c45c12db6",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "focusskin": null,
+        "osVersion": "iOS7",
+        "wType": "Appmenu",
+        "focusSkin": null,
+        "mobile": {
+            "data": [
+                {
+                    "kuid": "fa2ffad370ab4579a58fa5f6d2f766a1",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "kuid": "d9423012632e457ea0b1bcb8ea2a284c",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "kuid": "fa129a09b75a49888ad462de9631065f",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "kuid": "ic304efc43804ad88c8d70ff2a68a605",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "skin": null,
+        "osPlatform": ""
+    },
+    "wap_spaipad_fontsize": "17",
+    "mwportkey": "",
+    "mwhttpsportkey": "",
+    "wap_bb440_fontsize": "15",
+    "supportedorientations": [
+        "portrait"
+    ],
+    "wap_bb400_fontsize": "14",
+    "appidkey": "NadeemTrainingMV",
+    "wap_bb360_fontsize": "13",
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "wap_spawindowstab_fontsize": "17",
+    "accountCloudGuid": "19a24b25-09b2-4634-aacc-5046141def1b",
+    "defaulttheme": "defaultTheme",
+    "appaddrkey": "",
+    "appnamekey": "NadeemTrainingMVC",
+    "currentgaversion": "8.0.0",
+    "wap_bb320_fontsize": "15",
+    "wap_bb240_fontsize": "12",
+    "desktopwebbasefontsize": "16",
+    "wap_android240_fontsize": "10",
+    "wap_spaandroidtabldpi_fontsize": "17",
+    "wap_spaandroidtabmdpi_fontsize": "14",
+    "konyVizVersion": "8.0.0",
+    "isDpScaleFactor": true,
+    "wap_spaandroidtab_fontsize": "17",
+    "prototype": {
+        "createdOn": "2017-11-16T16:20:12.593Z",
+        "createdById": "b0536126-aea9-4526-80ea-ec18bd1af0c7",
+        "createdBy": "Kony Training",
+        "shareGuid": "B4IXT",
+        "resourceId": "93af79b7-7bbc-4df8-aa15-edca0705132b",
+        "PublishMode": "public"
+    },
+    "referenceWidth": "375",
+    "winmobileguidkey": "",
+    "APPLICATION_THEME": "default",
+    "build": "debug",
+    "project_version": "sprint29",
+    "wap_ip_fontsize": "12",
+    "ipadlandscapemodekey": "portrait",
+    "category": "app",
+    "createdVizVersion": "8.0.1",
+    "mfappguid": {
+        "19a24b25-09b2-4634-aacc-5046141def1b": "be9939f3-b70b-4959-a559-bc62d4d62787",
+        "52be17a7-4d88-4307-aa4e-7b3aad337813": "697db0dd-b452-49c6-ae80-1c2403ca8012"
+    },
+    "isA11yConfigEnabled": false,
+    "cordovaVersionInfo": {
+        "useGlobalCordova": false
+    },
+    "enableCordova": false,
+    "enableIdForAutomation": false,
+    "cordovaModified": false,
+    "watchos_shortlooknotificationicon_42": "",
+    "statusBarHidden": "false",
+    "watchos_longlooknotificationicon_42": "",
+    "watchos_companionSettings3x29": "",
+    "watchos_homeScreen40": "",
+    "watchos_companionSettings2x29": "",
+    "watchos_shortlooknotificationicon_38": "",
+    "watchos_notificationcentericon_38": "",
+    "watchos_notificationcentericon_42": "",
+    "watchos_watchMarketing1x": "",
+    "enableactionbar": false,
+    "export.type": "studioviz"
+}

@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_d43b42b536434a88993d4ab4e889f99f": {
+        "id": "AS_FlexContainer_d43b42b536434a88993d4ab4e889f99f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "MainForm",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jf559d5a70b845e89eeb68d7258512b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___de77a4e134e84e959958a36c7467695f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "flightsClickHandler",
+            "display": "flightsClickHandler",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}
